@@ -5,6 +5,11 @@ Hello fellow brothers and pledges. As President of Beta Iota Omega (beta.io) it'
 
 Steve Kaliski, President
 
+## Pledging ##
+Do you love Frat Rap & prototypal inheritance? Great, you'll be fine. But for all of your PHP, Python, Ruby pledges there will be extensive hazing (in a private repo of course). By the end of pledge season one thing's for sure: you won't be classy.
+
+David Byrd, Pledge Master
+
 ## Initiation ##
 After a successful pledging process, all candidates will be initiated.
 ```javascript
@@ -13,8 +18,3 @@ var Pledge = new frat.pledge();
 
 Pledge.init();
 ```
-
-## Pledging ##
-Do you love Frat Rap & prototypal inheritance? Great, you'll be fine. But for all of your PHP, Python, Ruby pledges there will be extensive hazing (in a private repo of course). By the end of pledge season one thing's for sure: you won't be classy.
-
-David Byrd, Pledge Master
