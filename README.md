@@ -15,6 +15,6 @@ Pledge.init();
 ```
 
 ## Pledging ##
-Do you love Frat Rap & prototypal inheritance? Great, you'll be fine. But for all of your PHP, Python, Ruby pledges there will be extensive hazing. By the end of pledge season one thing's for sure: you won't be classy.
+Do you love Frat Rap & prototypal inheritance? Great, you'll be fine. But for all of your PHP, Python, Ruby pledges there will be extensive hazing (in a private repo of course). By the end of pledge season one thing's for sure: you won't be classy.
 
 David Byrd, Pledge Master
