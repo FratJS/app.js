@@ -1,4 +1,4 @@
-# Frat.js #
+# Frat.js Application Overview#
 
 Hello fellow brothers and pledges. As President of Beta Iota Omega (beta.io) it's my responsibility to give you a quick outline of our here fraternity, founded in 2012 by a bunch of JavaScript hooligans.
 
